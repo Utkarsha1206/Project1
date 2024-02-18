@@ -1,0 +1,11 @@
+
+git commnd
+1. git init
+2. git add
+3. git commit
+4. git remote -v
+5. git remote seturl origine "repourl"
+6. git log
+7. git rm
+8.git staus
+
